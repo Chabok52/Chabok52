@@ -3,7 +3,7 @@
 ### Aunque mis amigos me dicen Valen o Rulo :skull:
 **Estoy actualmente estudiando Ingeniería en Computación en la Universidad de Rio Negro (facilita la carrera) :feelsgood:**
 
-**Saber lo que es saber no se ninguno, pero si imprimir _"Hola Mundo"_ y conocer los comandos básicos y medio avanzados de los lenguajes cuentan como saber, sé los siguientes :computer::**
+**Saber lo que es saber no se ninguno, pero si imprimir _"Hola Mundo"_ y conocer los comandos básicos y medio avanzados de los lenguajes de programación cuentan como saber, sé los siguientes :computer::**
 - Python
 - Gobstone
 - Javascript
