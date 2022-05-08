@@ -1,7 +1,10 @@
 # Hey!
 ## Soy Valentin Mardones
 ### Aunque mis amigos me dicen Valen o Rulo :skull:
+***
 **Estoy actualmente estudiando Ingeniería en Computación en la Universidad de Rio Negro (facilita la carrera) :feelsgood:**
+
+![Guts](https://i.pinimg.com/originals/9d/05/d3/9d05d3cd268ef08c45cf699aca061d93.png)
 
 **Saber lo que es saber no se ninguno, pero si imprimir _"Hola Mundo"_ y conocer los comandos básicos y medio avanzados de los lenguajes de programación cuentan como saber, sé los siguientes :computer::**
 - Python
