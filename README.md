@@ -8,6 +8,7 @@
 
 **Saber lo que es saber no se ninguno, pero si imprimir _"Hola Mundo"_ y conocer los comandos básicos y medio avanzados de los lenguajes de programación cuentan como saber, sé los siguientes :computer::**
 - Python
+- C
 - Gobstone
 - Javascript
 - Ruby
